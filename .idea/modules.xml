@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qfzwx-core/qfzwx-common/qfzwx-common.iml" filepath="$PROJECT_DIR$/qfzwx-core/qfzwx-common/qfzwx-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qfzwx-core/qfzwx-core.iml" filepath="$PROJECT_DIR$/qfzwx-core/qfzwx-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qfzwx-core/qfzwx-dependencies/qfzwx-dependencies.iml" filepath="$PROJECT_DIR$/qfzwx-core/qfzwx-dependencies/qfzwx-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qfzwx-core/qfzwx-elasticsearch/qfzwx-elasticsearch.iml" filepath="$PROJECT_DIR$/qfzwx-core/qfzwx-elasticsearch/qfzwx-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qfzwx-entity/qfzwx-entity.iml" filepath="$PROJECT_DIR$/qfzwx-entity/qfzwx-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qfzwx-mapper/qfzwx-mapper.iml" filepath="$PROJECT_DIR$/qfzwx-mapper/qfzwx-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qfzwx-platform/qfzwx-platform.iml" filepath="$PROJECT_DIR$/qfzwx-platform/qfzwx-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qfzwx-server.iml" filepath="$PROJECT_DIR$/.idea/qfzwx-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qfzwx-service/qfzwx-service.iml" filepath="$PROJECT_DIR$/qfzwx-service/qfzwx-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qfzwx-platform/qfzwx-start-api/qfzwx-start-api.iml" filepath="$PROJECT_DIR$/qfzwx-platform/qfzwx-start-api/qfzwx-start-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qfzwx-core/qfzwx-starter-web/qfzwx-starter-web.iml" filepath="$PROJECT_DIR$/qfzwx-core/qfzwx-starter-web/qfzwx-starter-web.iml" />
+    </modules>
+  </component>
+</project>

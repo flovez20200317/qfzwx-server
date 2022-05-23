@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mapstruct:mapstruct-jdk8:unknown">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Java/apache-maven-3.8.4/repository/org/mapstruct/mapstruct-jdk8/unknown/mapstruct-jdk8-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../Java/apache-maven-3.8.4/repository/org/mapstruct/mapstruct-jdk8/unknown/mapstruct-jdk8-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Java/apache-maven-3.8.4/repository/org/mapstruct/mapstruct-jdk8/unknown/mapstruct-jdk8-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/qfzwx-core/qfzwx-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-core/qfzwx-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-core/qfzwx-elasticsearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-core/qfzwx-elasticsearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-core/qfzwx-starter-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-core/qfzwx-starter-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-entity/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-mapper/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-platform/qfzwx-start-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-platform/qfzwx-start-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-platform/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-platform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qfzwx-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

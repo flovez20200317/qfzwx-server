@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qfzwx-elasticsearch" />
+        <module name="qfzwx-mapper" />
+        <module name="qfzwx-service" />
+        <module name="qfzwx-start-api" />
+        <module name="qfzwx-entity" />
+        <module name="qfzwx-starter-web" />
+        <module name="qfzwx-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="base" target="1.5" />
+      <module name="common" target="1.5" />
+      <module name="qfzwx-common" target="1.8" />
+      <module name="qfzwx-core" target="1.8" />
+      <module name="qfzwx-dependencies" target="1.8" />
+      <module name="qfzwx-elasticsearch" target="1.8" />
+      <module name="qfzwx-entity" target="1.8" />
+      <module name="qfzwx-mapper" target="1.8" />
+      <module name="qfzwx-platform" target="1.8" />
+      <module name="qfzwx-server" target="1.8" />
+      <module name="qfzwx-service" target="1.8" />
+      <module name="qfzwx-start-api" target="1.8" />
+      <module name="qfzwx-starter-common" target="1.5" />
+      <module name="qfzwx-starter-web" target="1.8" />
+      <module name="sprngboot" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
